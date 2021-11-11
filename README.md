@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michnik3
 - 👀 I’m interested in improving my skills in programming
-- 🌱 I’m currently learning Java, Python, Neutral Networks
+- 🌱 I’m currently learning Java, Python, C and Neutral Networks
 - 💞️ I’m looking to collaborate with other developers
 - 📫 You can reach me at my e-mail: michnikf3@gmail.com
 
